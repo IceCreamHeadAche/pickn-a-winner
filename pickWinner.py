@@ -1,5 +1,12 @@
 x = 0
 
+# README  - I've not programmed anything since college. I've been working in IT for 16 years as of 2015. In 2015 I promissed my 11 year old son 
+# that I would learn to program so that I could teach him. 
+
+### ideas for this script include: letting the users enter a list of names for the drawing, making the code more dynamic so that 
+### it doesn't need code changes for each new drawing (IE static names and static number of vote var etc.... then I would like to 
+### put a web front end on it. 
+
 #respList = [] # creates an empty list to hold responders names 
 #resp = raw_input('[+] Please <TYPE> a name and press <ENTER> - <TYPE> q and press enter to quit entering names \n') #prompts for a name and collects the input, stores as resp
 
